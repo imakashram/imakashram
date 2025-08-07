@@ -4,7 +4,7 @@ Data Visualization & Front-End Engineer
 
 More at: [imakashram.bio.link](https://imakashram.bio.link/)
 
-- 💬 Ping me for collabs on Data-Driven stuff.
+Ping me for collabs on Data-Driven stuff.
 
 
 
