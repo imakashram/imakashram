@@ -1,11 +1,6 @@
-Data Visualization & Front-End Engineer
+# 👋 Hello there, internet traveler!
+> Hi, I’m `Akash` — a Data Visualisation & Front-end Engineer who loves turning complex data into clear, engaging stories. I’m especially interested in projects where data, design, and public impact come together.
 
-**Data | Data Viz | Web Dev | Hybrid Apps**
+- 📊 All things `Data`, `Data Viz`,  `Web Dev`, `Hybrid Apps`
 
-More at: [imakashram.bio.link](https://imakashram.bio.link/)
-
-Ping me for collabs on Data-Driven stuff.
-
-
-
-
+- 🌐 More at: [imakashram.bio.link](https://imakashram.bio.link/)
